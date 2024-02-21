@@ -1,0 +1,53 @@
+/* Form.css
+
+/* Styles for the form container */
+ /* div {
+    text-align: center;
+  } */
+  
+ /* form {
+    padding: 3rem;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .form-control {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .btn-dark {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .text-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    gap: 5px;
+    padding: 1rem;
+  }
+  
+  span {
+    font-size: 30px;
+  } */
+   
+
+  .reg form button{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 500px;
+    border: none;
+  }
+
+  .reg form input,select{
+    width: 500px;
+  }
+
+  
+
+  
